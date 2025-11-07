@@ -35,6 +35,6 @@
     "globals": "^15.15.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
